@@ -1,0 +1,106 @@
+body {
+  background-color: #f7f9f9;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  height: 100vh;
+}
+
+.cabecalho {
+  align-items: center;
+  background: #f7f9f9;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.menu {
+  position: absolute;
+  right: 5%;
+  top: 4%;
+}
+
+.menu__lista {
+  display: flex;
+}
+
+.menu__item {
+  display: inline;
+  margin-left: 30px;
+}
+
+.menu__item a {
+  color: #03396c;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu__item a:hover {
+  text-decoration: underline;
+}
+
+
+.logo {
+  left: 4%;
+  position: relative;
+  width: 115px;
+}
+
+body {
+  background-color: #f7f9f9;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  width: 940px;
+}
+
+form {
+  font-size: 16px;
+  margin: 40px 0;
+}
+
+form label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.entrada, .saida{
+  font-size: 14px;
+}
+
+form input,
+form textarea {
+  display: block;
+  margin-bottom: 25px;
+  padding: 10px 15px;
+  width: 90%;
+}
+
+.enviar {
+  background: #03396c;
+  border-color: #03396c;
+  border-radius: 8px;
+  border-style: groove;
+  color: white;
+  padding: 15px 0;
+  width: 30%;
+}
+
+.enviar:hover {
+  background: white;
+  border-color: #03396c;
+  border-style: groove;
+  color: #03396c;
+  cursor: pointer;
+  font-weight: bold;
+  transform: scale(1.1);
+  transition: 1s all;
+}
