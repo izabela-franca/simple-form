@@ -4,5 +4,6 @@ A project to practice form validation using HTML5. / Um projeto para praticar va
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/101933646/170898018-e72f128a-8566-4f85-83b2-522e6841a089.png)
+![image](https://user-images.githubusercontent.com/101933646/170898155-909f5243-4fb1-4f87-b586-5f97c88c3ffd.png)
+
 
