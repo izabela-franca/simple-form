@@ -1,6 +1,13 @@
 # simple-form
 
-A project to practice form validation using HTML5. / Um projeto para praticar validação de formulários em HTML5.
+A project to practice form validation using HTML5. 
+______________________________________________________________________________________________________
+
+Um projeto para praticar validação de formulários em HTML5.
+______________________________________________________________________________________________________
+
+Link: https://izabela-franca.github.io/simple-form/
+______________________________________________________________________________________________________
 
 Preview:
 
